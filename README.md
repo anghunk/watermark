@@ -2,6 +2,8 @@
 
 一个简单的小工具，可以在你的电脑屏幕上添加文字水印，非常适合录屏或在线分享时保护内容。
 
+<img width="2559" height="1515" alt="image" src="https://github.com/user-attachments/assets/9f169ddf-570a-4732-8e02-855699cc3e92" />
+
 ## 主要功能
 
 *   **自定义文字、大小、颜色、透明度和角度**。
