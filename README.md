@@ -13,10 +13,10 @@
 
 **1. 直接运行**
 
-在 releases 中下载 exe 文件，双击运行。
+在 [releases](https://github.com/anghunk/watermark/releases) 中下载 exe 文件，双击运行。
 
 **2. 命令行执行**
 
 在命令行中运行 `python watermark_gui.py`。
 
-**3. 自行打包构建 exe**
+**3. 自行打包构建 exe 可执行文件**
